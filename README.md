@@ -1,5 +1,5 @@
 # oi eu sou o tec 👋
-## Bem vindo ao meu perfil GitHub :suspect:
+## Bem vindo ao meu perfil GitHub <img loading="lazy" src="https://media1.tenor.com/m/VEHlB-ZjKxQAAAAC/celeste-madeline.gif"/>
 
 <!--
 **tecnic-1/tecnic-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## Estou aprendendo
-<img loading="lazy" link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 ## Redes sociais
 <div>

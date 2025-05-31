@@ -21,6 +21,4 @@ Here are some ideas to get you started:
   <a href="https://gamejolt.com/@tecnicgamer" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/gamejolt-%23CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black"></a>
   <a href="https://www.instagram.com/nicolas.miguel.knupffer/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-## Isso é tudo!
 <img loading="lazy" src="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif"/>

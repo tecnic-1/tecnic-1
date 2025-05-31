@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </div>
 
 ## Isso é tudo!
-<img loading="lazy" link rel="stylesheet" type='text/css' href="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif" />
+<img loading="lazy" link rel="stylesheet" type='text/css' href="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif"/>

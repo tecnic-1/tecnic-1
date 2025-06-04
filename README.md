@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Redes sociais
 <div>
   <a href="https://www.youtube.com/@tecnicgamer1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://gamejolt.com/@tecnicgamer" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/gamejolt-%23CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black"></a>
+  <a href="gamejolt.com/invite/tecnicgamer" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/gamejolt-%23CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black"></a>
   <a href="https://www.instagram.com/nicolas.miguel.knupffer/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <img loading="lazy" src="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif"/>
